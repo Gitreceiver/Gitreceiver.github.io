@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-CN'
-title = '据临天下之理'
+title = '申非'
 author = '临天下'
 paginate = 10
 enableRobotsTXT = true
