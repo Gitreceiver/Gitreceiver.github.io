@@ -1,4 +1,7 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'zh-CN'
+title = '据临天下之理'
+author = '临天下'
+paginate = 10
+enableRobotsTXT = true
 theme = 'PaperMod'
