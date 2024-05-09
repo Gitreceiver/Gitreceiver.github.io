@@ -4,3 +4,4 @@ github.com/Gitreceiver/Gitreceiver.github.io v0.0.0-20220421182344-c49009b823de 
 github.com/Gitreceiver/Gitreceiver.github.io v0.0.0-20220421182344-c49009b823de/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
 github.com/Gitreceiver/Gitreceiver.github.io v0.0.0-20220506133956-dd7cded81d83 h1:WzT6TQM/IWBuR0xuCKxfWyuQUxZRHOgzU3+RoVX88Xs=
 github.com/Gitreceiver/Gitreceiver.github.io v0.0.0-20220506133956-dd7cded81d83/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220421182344-c49009b823de/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
