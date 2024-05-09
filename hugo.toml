@@ -1,7 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'zh-CN'
-title = '申非'
-author = '临天下'
-paginate = 10
-enableRobotsTXT = true
-theme = 'PaperMod'

@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>申非</title>
+    <title>申非的博客 on 申非</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 申非</description>
-    <generator>Hugo -- 0.125.4</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Fri, 26 Apr 2024 22:32:18 +0800</lastBuildDate>
+    <description>Recent content in 申非的博客 on 申非</description>
+    <generator>Hugo</generator>
+    <language>zh_cn</language>
+    <lastBuildDate>Wed, 08 May 2024 22:37:12 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>文章标题</title>
-      <link>http://localhost:1313/posts/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</link>
-      <pubDate>Fri, 26 Apr 2024 22:32:18 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</guid>
-      <description></description>
+      <title>我的三观</title>
+      <link>http://localhost:1313/post/%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%82/</link>
+      <pubDate>Wed, 08 May 2024 22:37:12 +0800</pubDate>
+      <guid>http://localhost:1313/post/%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%82/</guid>
+      <description>三观的区别</description>
+    </item>
+    <item>
+      <title>批评与自我批评</title>
+      <link>http://localhost:1313/post/%E6%89%B9%E8%AF%84/</link>
+      <pubDate>Wed, 08 May 2024 16:09:52 +0800</pubDate>
+      <guid>http://localhost:1313/post/%E6%89%B9%E8%AF%84/</guid>
+      <description>在七千人大会上的讲话——关于党的民主集中制</description>
+    </item>
+    <item>
+      <title>联系我</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>想要联系我，请通过邮箱方式：&#xA;我的邮箱：addhyh666@163.com</description>
     </item>
   </channel>
 </rss>
