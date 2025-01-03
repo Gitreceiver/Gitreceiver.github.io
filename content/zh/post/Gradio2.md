@@ -72,7 +72,7 @@ demo.launch()
 ## 三、警示通知
 报错：
 
-gr.Error('This is an error.')    
+    gr.Error('This is an error.')    
 
 通知：
 

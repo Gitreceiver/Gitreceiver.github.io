@@ -6,8 +6,36 @@
     <description>Recent content in 申非的博客 on 申非</description>
     <generator>Hugo</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Wed, 22 May 2024 15:27:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 12:28:19 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿尔都塞--《论再生产》</title>
+      <link>http://localhost:1313/post/althusser/</link>
+      <pubDate>Fri, 03 Jan 2025 12:28:19 +0800</pubDate>
+      <guid>http://localhost:1313/post/althusser/</guid>
+      <description>论再生产（1970）中阿尔都塞的哲学理论</description>
+    </item>
+    <item>
+      <title>Gradio官方学习文档（四）-Blocks控制布局</title>
+      <link>http://localhost:1313/post/gradio4/</link>
+      <pubDate>Thu, 30 May 2024 13:58:28 +0800</pubDate>
+      <guid>http://localhost:1313/post/gradio4/</guid>
+      <description>Gradio官方学习文档第四节，Blocks模块构建后续</description>
+    </item>
+    <item>
+      <title>Gradio官方学习文档（三）-Blocks</title>
+      <link>http://localhost:1313/post/gradio3/</link>
+      <pubDate>Wed, 29 May 2024 13:58:28 +0800</pubDate>
+      <guid>http://localhost:1313/post/gradio3/</guid>
+      <description>Gradio官方学习文档第三节，Blocks模块</description>
+    </item>
+    <item>
+      <title>Gradio官方学习文档（二）</title>
+      <link>http://localhost:1313/post/gradio2/</link>
+      <pubDate>Sat, 25 May 2024 09:41:00 +0800</pubDate>
+      <guid>http://localhost:1313/post/gradio2/</guid>
+      <description>Gradio官方学习文档第二节</description>
+    </item>
     <item>
       <title>Gradio官方学习文档（一）</title>
       <link>http://localhost:1313/post/gradio/</link>
