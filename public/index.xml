@@ -2,80 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>申非的博客 on 申非</title>
-    <link>http://localhost:1313/</link>
+    <link>https://gitreceiver.github.io/</link>
     <description>Recent content in 申非的博客 on 申非</description>
     <generator>Hugo</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Fri, 03 Jan 2025 12:28:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jun 2025 13:47:35 +0800</lastBuildDate>
+    <atom:link href="https://gitreceiver.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>英日条约原件展览</title>
+      <link>https://gitreceiver.github.io/post/%E8%8B%B1%E6%97%A5%E6%9D%A1%E7%BA%A6%E5%8E%9F%E4%BB%B6%E5%B1%95%E8%A7%88/</link>
+      <pubDate>Tue, 03 Jun 2025 13:47:35 +0800</pubDate>
+      <guid>https://gitreceiver.github.io/post/%E8%8B%B1%E6%97%A5%E6%9D%A1%E7%BA%A6%E5%8E%9F%E4%BB%B6%E5%B1%95%E8%A7%88/</guid>
+      <description>发一点光辉</description>
+    </item>
     <item>
       <title>阿尔都塞--《论再生产》</title>
-      <link>http://localhost:1313/post/althusser/</link>
+      <link>https://gitreceiver.github.io/post/althusser/</link>
       <pubDate>Fri, 03 Jan 2025 12:28:19 +0800</pubDate>
-      <guid>http://localhost:1313/post/althusser/</guid>
+      <guid>https://gitreceiver.github.io/post/althusser/</guid>
       <description>论再生产（1970）中阿尔都塞的哲学理论</description>
     </item>
     <item>
       <title>Gradio官方学习文档（四）-Blocks控制布局</title>
-      <link>http://localhost:1313/post/gradio4/</link>
+      <link>https://gitreceiver.github.io/post/gradio4/</link>
       <pubDate>Thu, 30 May 2024 13:58:28 +0800</pubDate>
-      <guid>http://localhost:1313/post/gradio4/</guid>
+      <guid>https://gitreceiver.github.io/post/gradio4/</guid>
       <description>Gradio官方学习文档第四节，Blocks模块构建后续</description>
     </item>
     <item>
       <title>Gradio官方学习文档（三）-Blocks</title>
-      <link>http://localhost:1313/post/gradio3/</link>
+      <link>https://gitreceiver.github.io/post/gradio3/</link>
       <pubDate>Wed, 29 May 2024 13:58:28 +0800</pubDate>
-      <guid>http://localhost:1313/post/gradio3/</guid>
+      <guid>https://gitreceiver.github.io/post/gradio3/</guid>
       <description>Gradio官方学习文档第三节，Blocks模块</description>
     </item>
     <item>
       <title>Gradio官方学习文档（二）</title>
-      <link>http://localhost:1313/post/gradio2/</link>
+      <link>https://gitreceiver.github.io/post/gradio2/</link>
       <pubDate>Sat, 25 May 2024 09:41:00 +0800</pubDate>
-      <guid>http://localhost:1313/post/gradio2/</guid>
+      <guid>https://gitreceiver.github.io/post/gradio2/</guid>
       <description>Gradio官方学习文档第二节</description>
     </item>
     <item>
       <title>Gradio官方学习文档（一）</title>
-      <link>http://localhost:1313/post/gradio/</link>
+      <link>https://gitreceiver.github.io/post/gradio/</link>
       <pubDate>Wed, 22 May 2024 15:27:15 +0800</pubDate>
-      <guid>http://localhost:1313/post/gradio/</guid>
+      <guid>https://gitreceiver.github.io/post/gradio/</guid>
       <description>Gradio官方学习文档第一节</description>
     </item>
     <item>
       <title>我的哲学</title>
-      <link>http://localhost:1313/post/%E5%93%B2%E5%AD%A6/</link>
+      <link>https://gitreceiver.github.io/post/%E5%93%B2%E5%AD%A6/</link>
       <pubDate>Tue, 14 May 2024 23:25:37 +0800</pubDate>
-      <guid>http://localhost:1313/post/%E5%93%B2%E5%AD%A6/</guid>
+      <guid>https://gitreceiver.github.io/post/%E5%93%B2%E5%AD%A6/</guid>
       <description>我的哲学，结合毛主义、近代物理学、计算机科学。</description>
     </item>
     <item>
       <title>现代科学</title>
-      <link>http://localhost:1313/post/sciencedif/</link>
+      <link>https://gitreceiver.github.io/post/sciencedif/</link>
       <pubDate>Fri, 10 May 2024 13:13:37 +0800</pubDate>
-      <guid>http://localhost:1313/post/sciencedif/</guid>
+      <guid>https://gitreceiver.github.io/post/sciencedif/</guid>
       <description>浅现代科学思想和科学马克思思想的本质区别</description>
     </item>
     <item>
       <title>我的三观</title>
-      <link>http://localhost:1313/post/%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%82/</link>
+      <link>https://gitreceiver.github.io/post/%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%82/</link>
       <pubDate>Wed, 08 May 2024 22:37:12 +0800</pubDate>
-      <guid>http://localhost:1313/post/%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%82/</guid>
+      <guid>https://gitreceiver.github.io/post/%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%82/</guid>
       <description>三观的区别</description>
     </item>
     <item>
       <title>批评与自我批评</title>
-      <link>http://localhost:1313/post/%E6%89%B9%E8%AF%84/</link>
+      <link>https://gitreceiver.github.io/post/%E6%89%B9%E8%AF%84/</link>
       <pubDate>Wed, 08 May 2024 16:09:52 +0800</pubDate>
-      <guid>http://localhost:1313/post/%E6%89%B9%E8%AF%84/</guid>
+      <guid>https://gitreceiver.github.io/post/%E6%89%B9%E8%AF%84/</guid>
       <description>在七千人大会上的讲话——关于党的民主集中制</description>
     </item>
     <item>
       <title>联系我</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://gitreceiver.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://gitreceiver.github.io/contact/</guid>
       <description>想要联系我，请通过邮箱方式：&#xA;我的邮箱：addhyh666@163.com</description>
     </item>
   </channel>

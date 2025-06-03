@@ -36,3 +36,11 @@ other = "标签为“{{ .Title }}”的页面如下"
 
 [pageTitle]
 other = "{{ .Name }} 页"
+
+[wordCount]
+one = "One word"
+other = "{{ .Count }} 字"
+
+[readingTime]
+one = "One minute read"
+other = "{{ .Count }} 分钟阅读"
